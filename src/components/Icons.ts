@@ -1,0 +1,16 @@
+export { ArrowDown } from '@phosphor-icons/react/ArrowDown';
+export { ArrowUpRight } from '@phosphor-icons/react/ArrowUpRight';
+export { ArrowLeft } from '@phosphor-icons/react/ArrowLeft';
+export { ArrowRight } from '@phosphor-icons/react/ArrowRight';
+export { X } from '@phosphor-icons/react/X';
+export { List } from '@phosphor-icons/react/List';
+export { Asterisk } from '@phosphor-icons/react/Asterisk';
+export { Plus } from '@phosphor-icons/react/Plus';
+export { UserCircle } from '@phosphor-icons/react/UserCircle';
+export { Heart } from '@phosphor-icons/react/Heart';
+export { Camera } from '@phosphor-icons/react/Camera';
+export { Shapes } from '@phosphor-icons/react/Shapes';
+export { Notebook } from '@phosphor-icons/react/Notebook';
+export { EnvelopeSimple } from '@phosphor-icons/react/EnvelopeSimple';
+export { Check } from '@phosphor-icons/react/Check';
+export { GridFour } from '@phosphor-icons/react/GridFour';
